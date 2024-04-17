@@ -14,6 +14,8 @@ Three machine learning classifiers were trained and evaluated for essay classifi
 • Naïve Bayes  
 • Logistic Regression  
 • Random Forest  
+• BERT  
+
 
 Feature engineering techniques were employed to augment the dataset and enhance classification performance. Three key features were engineered:  
 • Text Length  
