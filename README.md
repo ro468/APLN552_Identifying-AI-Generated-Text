@@ -27,8 +27,6 @@ Evaluation metrics such as precision, recall, F1-score, and accuracy were used t
 
 ## DATASET  
 
-https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset  
+https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset     (Report #2)
 
-https://www.kaggle.com/competitions/llm-detect-ai-generated-text  
-
-
+https://www.kaggle.com/competitions/llm-detect-ai-generated-text    (Report #1)  
