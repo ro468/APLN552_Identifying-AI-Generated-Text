@@ -24,3 +24,11 @@ Feature engineering techniques were employed to augment the dataset and enhance 
 
 
 Evaluation metrics such as precision, recall, F1-score, and accuracy were used to assess the performance of each classifier.  
+
+## DATASET  
+
+https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset  
+
+https://www.kaggle.com/competitions/llm-detect-ai-generated-text  
+
+
