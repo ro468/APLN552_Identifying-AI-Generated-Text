@@ -36,3 +36,5 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text    (Report #1)
 Sample size of 100000 with k-fold validation is implemented in [ML models with 100000 sample](FinalSubmission/Sampling_10000_with_Kfold.ipynb)
 
 Sample size of 3000 with k-fold validation(Naive Bayes, Logistic Regression, Random Forest) is implemented in [ML models with 3000 sample](FinalSubmission/Sampling_3000_with_Kfold.ipynb)
+
+**Note:** Codes take several hours to run and give output. Therefore, outputs are added to the notebooks for initial review. 
